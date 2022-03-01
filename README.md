@@ -1,16 +1,18 @@
-### Hi there 👋
+# About ME 💬
 
-<!--
-**janjua0/janjua0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### - 👋 Hi, I’m Naveed Ahmed Janjua based in Karachi, Pakistan.
 
-Here are some ideas to get you started:
+### - Learning :
+- 🌱 Business Administration
+- 🌱 Information Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### - Hobbies : 
+- 👀 Gaming Addict (PUBG Mobile etc)
+- 👀 Watch Movies (Science Fiction)
+- 👀 Reading Blogs (Science & Technology)
+
+### - Contact Me :
+
+- 📫 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me.
+
+*************
